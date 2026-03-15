@@ -521,6 +521,12 @@ WHERE
 <!--                  GITHUB STATS SECTION                       -->
 <!-- ============================================================ -->
 
+<h2 align="center">📊 &nbsp;GitHub Stats</h2>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="50" />
+</p>
+
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Varun5526&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=020024&title_color=00d4ff&icon_color=c084fc&text_color=ffffff&border_radius=12" />
 </p>
@@ -543,12 +549,6 @@ WHERE
 <!-- ============================================================ -->
 <!--                   CONNECT / CTA SECTION                     -->
 <!-- ============================================================ -->
-
-<h2 align="center">📊 &nbsp;GitHub Stats</h2>
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="50" />
-</p>
 
 <h2 align="center">🤝 &nbsp;Let's Build Something Amazing</h2>
 
