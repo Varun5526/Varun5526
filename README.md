@@ -107,6 +107,56 @@ WHERE
 
 ---
 
+<!-- ============================================================ -->
+<!--                    EDUCATION SECTION                        -->
+<!-- ============================================================ -->
+
+<h2 align="center">🎓 &nbsp;Education</h2>
+
+<table align="center" width="90%">
+<tr>
+<td align="center" width="10%">🎓</td>
+<td width="65%">
+<strong>B.Tech — Artificial Intelligence & Data Science</strong><br/>
+<sub>Rajalakshmi Institute of Technology, Chennai</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/2023_–_Present-00d4ff?style=flat-square" />
+</td>
+</tr>
+<tr>
+<td colspan="3"><img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="100%" height="2"/></td>
+</tr>
+<tr>
+<td align="center">📘</td>
+<td>
+<strong>Higher Secondary (Class XII)</strong><br/>
+<sub>Tamil Nadu State Board</sub>
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/2023_—_89%25-c084fc?style=flat-square" />
+</td>
+</tr>
+<tr>
+<td colspan="3"><img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="100%" height="2"/></td>
+</tr>
+<tr>
+<td align="center">📗</td>
+<td>
+<strong>Secondary (Class X)</strong><br/>
+<sub>Tamil Nadu State Board</sub>
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/2021_—_80%25-7c3aed?style=flat-square" />
+</td>
+</tr>
+</table>
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="4" />
+
+---
 
 
 <!-- ============================================================ -->
@@ -397,56 +447,7 @@ WHERE
 
 ---
 
-<!-- ============================================================ -->
-<!--                    EDUCATION SECTION                        -->
-<!-- ============================================================ -->
 
-<h2 align="center">🎓 &nbsp;Education</h2>
-
-<table align="center" width="90%">
-<tr>
-<td align="center" width="10%">🎓</td>
-<td width="65%">
-<strong>B.Tech — Artificial Intelligence & Data Science</strong><br/>
-<sub>Rajalakshmi Institute of Technology, Chennai</sub>
-</td>
-<td align="center" width="25%">
-<img src="https://img.shields.io/badge/2023_–_Present-00d4ff?style=flat-square" />
-</td>
-</tr>
-<tr>
-<td colspan="3"><img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="100%" height="2"/></td>
-</tr>
-<tr>
-<td align="center">📘</td>
-<td>
-<strong>Higher Secondary (Class XII)</strong><br/>
-<sub>Tamil Nadu State Board</sub>
-</td>
-<td align="center">
-<img src="https://img.shields.io/badge/2023_—_89%25-c084fc?style=flat-square" />
-</td>
-</tr>
-<tr>
-<td colspan="3"><img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="100%" height="2"/></td>
-</tr>
-<tr>
-<td align="center">📗</td>
-<td>
-<strong>Secondary (Class X)</strong><br/>
-<sub>Tamil Nadu State Board</sub>
-</td>
-<td align="center">
-<img src="https://img.shields.io/badge/2021_—_80%25-7c3aed?style=flat-square" />
-</td>
-</tr>
-</table>
-
-<br/>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="4" />
-
----
 
 <!-- ============================================================ -->
 <!--                   CONNECT / CTA SECTION                     -->
