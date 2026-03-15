@@ -536,25 +536,9 @@ WHERE
 </p>
 
 <!-- LeetCode-style contribution heatmap -->
-<div align="center">
-
-```
-  CONTRIBUTION HEATMAP  //  github.com/Varun5526
-```
-
-</div>
-
 <p align="center">
-  <img width="92%" src="https://ghchart.rshah009.dev/00d4ff/Varun5526" alt="Varun's GitHub Contribution Chart" />
+  <img width="92%" src="https://github-readme-activity-graph.vercel.app/graph?username=Varun5526&bg_color=020024&color=00d4ff&line=00d4ff&point=ffffff&area_color=00d4ff&area=true&hide_border=true&custom_title=Contribution%20Graph&title_color=00d4ff" alt="Contribution Graph" />
 </p>
-
-<div align="center">
-
-| 🟦 Less | 🟩 Moderate | 🟢 Active | ⚡ Most Active |
-|:---:|:---:|:---:|:---:|
-| 1–3 commits | 4–8 commits | 9–15 commits | 16+ commits |
-
-</div>
 
 <br/>
 
