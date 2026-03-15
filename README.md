@@ -535,9 +535,26 @@ WHERE
   <img width="60%" src="https://streak-stats.demolab.com?user=Varun5526&theme=tokyonight&hide_border=true&background=020024&ring=00d4ff&fire=c084fc&currStreakLabel=00d4ff&dates=ffffff&border_radius=12" />
 </p>
 
+<!-- LeetCode-style contribution heatmap -->
+<div align="center">
+
+```
+  CONTRIBUTION HEATMAP  //  github.com/Varun5526
+```
+
+</div>
+
 <p align="center">
-  <img width="92%" src="https://github-readme-activity-graph.vercel.app/graph?username=Varun5526&bg_color=020024&color=00d4ff&line=7c3aed&point=c084fc&area=true&hide_border=true&radius=12" />
+  <img width="92%" src="https://ghchart.rshah009.dev/00d4ff/Varun5526" alt="Varun's GitHub Contribution Chart" />
 </p>
+
+<div align="center">
+
+| 🟦 Less | 🟩 Moderate | 🟢 Active | ⚡ Most Active |
+|:---:|:---:|:---:|:---:|
+| 1–3 commits | 4–8 commits | 9–15 commits | 16+ commits |
+
+</div>
 
 <br/>
 
