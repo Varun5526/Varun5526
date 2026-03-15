@@ -47,21 +47,23 @@ WHERE
     name        = 'Varun S'
     AND role    = 'Data Engineer Intern'
     AND company = 'Springer Capital'
-    AND status  = 'Open to Collabs & Internships 🤝';
+    AND status  = 'Open to Collabs & Internships';
+```
 
--- ✅ 1 ROW RETURNED  (execution time: 0.001ms ⚡)
--- ┌─────────────┬──────────────────────────────────────────────┐
--- │   COLUMN    │                    VALUE                     │
--- ├─────────────┼──────────────────────────────────────────────┤
--- │ name        │ "Varun S"                                    │
--- │ location    │ "Chennai, India 🇮🇳"                         │
--- │ college     │ "RIT Chennai | AI & Data Science | Year 3"  │
--- │ role        │ "Data Engineer Intern"                       │
--- │ company     │ "Springer Capital 🏢"                        │
--- │ stack       │ ["Azure","Spark","Airflow","LangChain","RAG"]│
--- │ passion     │ "Turning data chaos → insight ⚡"            │
--- │ status      │ "Open to Collabs & Internships 🤝"           │
--- └─────────────┴──────────────────────────────────────────────┘
+```
+  ✅  1 ROW RETURNED   (execution time: 0.001ms)
+  +-----------+-----------------------------------------------+
+  |  COLUMN   |  VALUE                                        |
+  +-----------+-----------------------------------------------+
+  | name      |  "Varun S"                                    |
+  | location  |  "Chennai, India"                             |
+  | college   |  "RIT Chennai | AI & Data Science | Year 3"   |
+  | role      |  "Data Engineer Intern"                       |
+  | company   |  "Springer Capital"                           |
+  | stack     |  ["Azure","Spark","Airflow","LangChain","RAG"] |
+  | passion   |  "Turning data chaos into insight"            |
+  | status    |  "Open to Collabs & Internships"              |
+  +-----------+-----------------------------------------------+
 ```
 
 <br/>
@@ -113,44 +115,45 @@ WHERE
 
 <h2 align="center">🎓 &nbsp;Education</h2>
 
-<table align="center" width="90%">
-<tr>
-<td align="center" width="10%">🎓</td>
-<td width="65%">
-<strong>B.Tech — Artificial Intelligence & Data Science</strong><br/>
-<sub>Rajalakshmi Institute of Technology, Chennai</sub>
-</td>
-<td align="center" width="25%">
-<img src="https://img.shields.io/badge/2023_–_Present-00d4ff?style=flat-square" />
-</td>
-</tr>
-<tr>
-<td colspan="3"><img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="100%" height="2"/></td>
-</tr>
-<tr>
-<td align="center">📘</td>
-<td>
-<strong>Higher Secondary (Class XII)</strong><br/>
-<sub>Tamil Nadu State Board</sub>
-</td>
-<td align="center">
-<img src="https://img.shields.io/badge/2023_–_89%25-c084fc?style=flat-square" />
-</td>
-</tr>
-<tr>
-<td colspan="3"><img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="100%" height="2"/></td>
-</tr>
-<tr>
-<td align="center">📗</td>
-<td>
-<strong>Secondary (Class X)</strong><br/>
-<sub>Tamil Nadu State Board</sub>
-</td>
-<td align="center">
-<img src="https://img.shields.io/badge/2021_–_80%25-7c3aed?style=flat-square" />
-</td>
-</tr>
-</table>
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=14&duration=2000&pause=800&color=00D4FF&center=true&vCenter=true&width=500&lines=cat+%7E%2Feducation%2Facademic_journey.log" />
+</p>
+
+```bash
+$ cat ~/education/academic_journey.log
+```
+
+```
+╔══════════════════════════════════════════════════════════════════════╗
+║                    ACADEMIC JOURNEY  ::  varun_s                    ║
+╚══════════════════════════════════════════════════════════════════════╝
+
+  [2023 ──────────────────────────────────────────── Present]
+  │
+  ◈  B.Tech  ·  Artificial Intelligence & Data Science
+  │  └─ Rajalakshmi Institute of Technology, Chennai
+  │  └─ STATUS   : ACTIVE  ·  Year 3 of 4
+  │  └─ FOCUS    : AI · ML · Data Engineering · GenAI
+  │
+  ├─────────────────────────────────────────────────────────
+  │
+  [2021 ──────────────────────────────────────────── 2023]
+  │
+  ◈  Higher Secondary  ·  Class XII
+  │  └─ Tamil Nadu State Board
+  │  └─ SCORE    : 89%
+  │  └─ STREAM   : Computer Science & Mathematics
+  │
+  ├─────────────────────────────────────────────────────────
+  │
+  [2019 ──────────────────────────────────────────── 2021]
+  │
+  ◈  Secondary  ·  Class X
+     └─ Tamil Nadu State Board
+     └─ SCORE    : 80%
+
+  EXIT CODE: 0  ·  3 records loaded successfully
+```
 
 <br/>
 
