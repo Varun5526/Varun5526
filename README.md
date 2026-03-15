@@ -1,57 +1,53 @@
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--   LIVE ANIMATED HEADER — SHARK WAVE + GLITCH TITLE           -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=cylinder&color=0:020024,30:090979,60:00d4ff,100:020024&height=280&section=header&text=VARUN%20S&fontSize=90&fontColor=ffffff&fontAlignY=45&desc=%E2%9A%A1%20AI%20Engineer%20%E2%80%A2%20Data%20Engineering%20%E2%80%A2%20Generative%20AI%20%E2%9A%A1&descSize=18&descAlignY=68&descColor=00d4ff&animation=fadeIn&stroke=00d4ff&strokeWidth=3" />
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=shark&color=0:020024,30:0a0a3e,60:00d4ff,100:7c3aed&height=200&section=header&text=VARUN%20S&fontSize=90&fontColor=00d4ff&fontAlignY=55&animation=twinkling&stroke=00d4ff&strokeWidth=2" />
+<img src="https://user-images.githubusercontent.com/22107794/139580686-887df369-edb8-4bc8-b607-4fbf6d7e4866.gif" width="100%" />
 
-<!-- LIVE MATRIX / PARTICLE BANNER -->
-<img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="100%" />
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--   TWINKLING TYPING ANIMATIONS                                  -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
+<!-- TYPING SVGS — must be bare img tags, NOT inside div or anchor tags -->
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=30&duration=3000&pause=500&color=00D4FF&center=true&vCenter=true&width=750&height=70&lines=%E2%9A%A1+VARUN+S+%E2%9A%A1;AI+Engineer+%7C+Data+Engineer;Building+the+Future+with+Data+%26+AI+%F0%9F%9A%80" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=28&duration=3000&pause=500&color=00D4FF&center=true&vCenter=true&width=700&height=60&lines=%E2%9A%A1+VARUN+S+%E2%9A%A1;AI+Engineer+%7C+Data+Engineer;Building+the+Future+with+Data+%26+AI" />
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=17&duration=2200&pause=500&color=C084FC&center=true&vCenter=true&width=750&lines=%F0%9F%94%A5+Currently+%40+Springer+Capital+as+Data+Engineer;%E2%98%81%EF%B8%8F+Azure+Synapse+%7C+Spark+%7C+Delta+Lake+%7C+Airflow;%F0%9F%A7%A0+RAG+Systems+%7C+LLMs+%7C+LangChain+%7C+GenAI;%F0%9F%8E%93+3rd+Year+AI+%26+DS+%40+RIT+Chennai+%F0%9F%87%AE%F0%9F%87%B3;%F0%9F%A4%9D+Open+to+Collabs+%26+Internships" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2500&pause=600&color=C084FC&center=true&vCenter=true&width=720&lines=%F0%9F%9A%80+Building+Production+AI+%26+Data+Systems;%E2%98%81%EF%B8%8F+Azure+Synapse+%7C+Spark+%7C+Delta+Lake+%7C+Airflow;%F0%9F%A7%A0+RAG+Systems+%7C+LLMs+%7C+LangChain+%7C+GenAI;%F0%9F%8E%93+3rd+Year+AI+%26+DS+%40+RIT+Chennai;%F0%9F%A4%9D+Open+to+Collaborations+%26+Internships" />
 </p>
-
-<!-- LIVE SOCIAL PROOF BADGES -->
-<p align="center">
-<a href="https://linkedin.com/in/varun-s-226513305"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;
-<a href="https://github.com/Varun5526"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" /></a>&nbsp;
-<a href="mailto:varunbala2809@gmail.com"><img src="https://img.shields.io/badge/Email-Hire_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;
-<img src="https://komarev.com/ghpvc/?username=Varun5526&style=for-the-badge&color=00d4ff&label=VIEWS" />
-</p>
-
-<!-- ANIMATED SNAKE DIVIDER -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="5" />
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--   WHO AM I — SQL STYLE + 3D ROTATING GIF SIDE                 -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="4" />
 
-<img align="right" width="370" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" />
+<br/>
 
-<h2>🧑‍💻 &nbsp;WHO AM I ?</h2>
+---
+
+<!-- ============================================================ -->
+<!--                    ABOUT ME SECTION                         -->
+<!-- ============================================================ -->
+
+<img align="right" width="380" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" />
+
+## 🧑‍💻 &nbsp;WHO AM I ?
 
 ```sql
 -- ╔══════════════════════════════════════════════════════════════╗
 -- ║           QUERYING THE ENGINEER DATABASE...                  ║
 -- ╚══════════════════════════════════════════════════════════════╝
 
-SELECT name, location, college, role,
-       company, stack, passion, status
-FROM   engineers
-WHERE  name        = 'Varun S'
-AND    role        = 'Data Engineer Intern'
-AND    company     = 'Springer Capital'
-AND    status      = 'Open to Collabs & Internships 🤝';
+SELECT
+    name,
+    location,
+    college,
+    role,
+    company,
+    stack,
+    passion,
+    status
+FROM
+    engineers
+WHERE
+    name        = 'Varun S'
+    AND role    = 'Data Engineer Intern'
+    AND company = 'Springer Capital'
+    AND status  = 'Open to Collabs & Internships 🤝';
 
 -- ✅ 1 ROW RETURNED  (execution time: 0.001ms ⚡)
 -- ┌─────────────┬──────────────────────────────────────────────┐
@@ -90,82 +86,26 @@ AND    status      = 'Open to Collabs & Internships 🤝';
 &nbsp;
 <img src="https://img.shields.io/badge/🚀_Building_AI_%26_Data_Systems-020024?style=for-the-badge&labelColor=7c3aed&color=020024" />
 
+<br/><br/>
+
+### 🌐 &nbsp;Connect With Me
+
+<a href="https://github.com/Varun5526"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>&nbsp;
+<a href="https://linkedin.com/in/varun-s-226513305"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;
+<a href="mailto:varunbala2809@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;
+<a href="tel:+918838193946"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=Varun5526&style=for-the-badge&color=00d4ff&label=PROFILE+VIEWS" />
+
 <br clear="all"/>
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="5" />
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="4" />
 
-<br/>
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--   LIVE ANIMATED EXPERIENCE TIMELINE                           -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<h2 align="center">💼 &nbsp;Experience Timeline</h2>
-
-<p align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="55" />
-</p>
-
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
-
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&duration=2000&pause=9999&color=00D4FF&center=true&width=280&lines=●+CURRENT+ROLE+—+ACTIVE+NOW" />
-</p>
-
-### 🏢 &nbsp;Springer Capital
-**`Data Engineer Intern`** &nbsp;|&nbsp; `Jan 2026 – Present`
-
-<img src="https://img.shields.io/badge/Azure_Synapse-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" />
-<img src="https://img.shields.io/badge/Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white" />
-<img src="https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white" />
-<img src="https://img.shields.io/badge/Delta_Lake-00ADD8?style=flat-square" />
-<img src="https://img.shields.io/badge/PowerBI-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
-<img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" />
-
-```
-▸ Azure Synapse + Spark ETL pipelines
-▸ Medallion Architecture (Bronze→Silver→Gold)
-▸ Apache Airflow workflow orchestration
-▸ Serverless SQL + Power BI dashboards
-▸ PostgreSQL curated data loading
-```
-
-</td>
-<td width="50%" valign="top">
-
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&duration=2000&pause=9999&color=A855F7&center=true&width=280&lines=●+COMPLETED+—+NOV+2025" />
-</p>
-
-### 🤖 &nbsp;Here and Now AI
-**`AI Intern`** &nbsp;|&nbsp; `Oct 2025 – Nov 2025`
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
-<img src="https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=google&logoColor=white" />
-<img src="https://img.shields.io/badge/NLP-7c3aed?style=flat-square" />
-<img src="https://img.shields.io/badge/Prompt_Eng-c084fc?style=flat-square" />
-
-```
-▸ AI chatbot + voice assistant
-▸ Google Gemini multi-turn dialogue
-▸ NLP prompt engineering
-▸ Production conversational AI
-```
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="5" />
-
-<br/>
+---
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!--   TECH ARSENAL — LIVE 3D SPINNING ICONS                       -->
@@ -262,21 +202,75 @@ AND    status      = 'Open to Collabs & Internships 🤝';
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--   FEATURED PROJECTS — ANIMATED CARDS                          -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- ============================================================ -->
+<!--                  EXPERIENCE SECTION                         -->
+<!-- ============================================================ -->
 
-<h2 align="center">🚀 &nbsp;Featured Projects</h2>
+<h2 align="center">💼 &nbsp;Experience</h2>
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="45" />
-&nbsp;
-<img src="https://user-images.githubusercontent.com/74038190/216121919-45bfc12a-bdff-4e55-8b72-f0e65e4fead4.png" width="45" />
-&nbsp;
-<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9318-7bb9a4a63b55.png" width="45" />
-&nbsp;
-<img src="https://user-images.githubusercontent.com/74038190/216120986-f2752ca9-fe82-4aa2-a740-5d40aed5c314.png" width="45" />
+<img src="https://img.shields.io/badge/●_CURRENT_ROLE-00d4ff?style=for-the-badge&logoColor=white" />
 </p>
+
+### 🏢 &nbsp;Springer Capital
+**`Data Engineer Intern`** &nbsp;|&nbsp; `Jan 2026 – Present`
+
+<img src="https://img.shields.io/badge/Azure_Synapse-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" />
+<img src="https://img.shields.io/badge/Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white" />
+<img src="https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white" />
+<img src="https://img.shields.io/badge/Delta_Lake-00ADD8?style=flat-square" />
+<img src="https://img.shields.io/badge/PowerBI-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
+<img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" />
+
+```
+▸ Azure Synapse + Spark ETL pipelines
+▸ Medallion Architecture (Bronze→Silver→Gold)
+▸ Apache Airflow workflow orchestration
+▸ Serverless SQL + Power BI dashboards
+▸ PostgreSQL curated data loading
+```
+
+</td>
+<td width="50%" valign="top">
+
+<p align="center">
+<img src="https://img.shields.io/badge/●_COMPLETED-7c3aed?style=for-the-badge&logoColor=white" />
+</p>
+
+### 🤖 &nbsp;Here and Now AI
+**`AI Intern`** &nbsp;|&nbsp; `Oct 2025 – Nov 2025`
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
+<img src="https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=google&logoColor=white" />
+<img src="https://img.shields.io/badge/NLP-7c3aed?style=flat-square" />
+
+```
+▸ AI chatbot + voice assistant (Python + Streamlit)
+▸ Google Gemini multi-turn dialogue integration
+▸ NLP prompt engineering & context management
+▸ Production conversational AI delivery
+```
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="4" />
+
+---
+
+<!-- ============================================================ -->
+<!--                 FEATURED PROJECTS SECTION                   -->
+<!-- ============================================================ -->
+
+<h2 align="center">🚀 &nbsp;Featured Projects</h2>
 
 <table width="100%">
 <tr>
@@ -368,29 +362,26 @@ AND    status      = 'Open to Collabs & Internships 🤝';
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="5" />
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="4" />
 
-<br/>
+---
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--   GITHUB STATS — LIVE ANIMATED CARDS                          -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- ============================================================ -->
+<!--                  GITHUB STATS SECTION                       -->
+<!-- ============================================================ -->
 
 <h2 align="center">📊 &nbsp;GitHub Stats</h2>
 
-<!-- LIVE ANIMATED TROPHY -->
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Varun5526&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=6" />
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="50" />
 </p>
-
-<br/>
 
 <p align="center">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Varun5526&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=020024&title_color=00d4ff&icon_color=c084fc&text_color=ffffff&border_radius=12" />
 </p>
 
 <p align="center">
-<img width="62%" src="https://streak-stats.demolab.com?user=Varun5526&theme=tokyonight&hide_border=true&background=020024&ring=00d4ff&fire=c084fc&currStreakLabel=00d4ff&dates=ffffff&border_radius=12" />
+<img width="60%" src="https://streak-stats.demolab.com?user=Varun5526&theme=tokyonight&hide_border=true&background=020024&ring=00d4ff&fire=c084fc&currStreakLabel=00d4ff&dates=ffffff&border_radius=12" />
 </p>
 
 <p align="center">
@@ -399,13 +390,13 @@ AND    status      = 'Open to Collabs & Internships 🤝';
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="5" />
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="4" />
 
-<br/>
+---
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--   EDUCATION — ANIMATED TIMELINE                               -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- ============================================================ -->
+<!--                    EDUCATION SECTION                        -->
+<!-- ============================================================ -->
 
 <h2 align="center">🎓 &nbsp;Education</h2>
 
@@ -441,3 +432,45 @@ AND    status      = 'Open to Collabs & Internships 🤝';
 <td>
 <strong>Secondary (Class X)</strong><br/>
 <sub>Tamil Nadu State Board</sub>
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/2021_—_80%25-7c3aed?style=flat-square" />
+</td>
+</tr>
+</table>
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="4" />
+
+---
+
+<!-- ============================================================ -->
+<!--                   CONNECT / CTA SECTION                     -->
+<!-- ============================================================ -->
+
+<h2 align="center">🤝 &nbsp;Let's Build Something Amazing</h2>
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/74038190/214644145-264f4759-7633-441e-9d67-d8dda9d50d26.gif" width="180" />
+</p>
+
+<p align="center">
+<a href="https://linkedin.com/in/varun-s-226513305"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;
+<a href="mailto:varunbala2809@gmail.com"><img src="https://img.shields.io/badge/Send_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;
+<a href="https://github.com/Varun5526"><img src="https://img.shields.io/badge/Follow_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
+
+<p align="center">
+💡 Open to <strong>AI/ML collaborations</strong>, <strong>Data Engineering projects</strong> &amp; <strong>research opportunities</strong><br/>
+⚡ <em>"Data is the new oil — I build the refinery."</em>
+</p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/⭐_Star_my_repos_if_you_find_them_useful!-020024?style=for-the-badge&labelColor=00d4ff&color=020024" />
+</p>
+
+<br/>
+
+<!-- FOOTER — bare img tag outside any HTML block -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020024,40:090979,70:00d4ff,100:7c3aed&height=150&section=footer&text=Thanks+for+Visiting!&fontSize=26&fontColor=ffffff&fontAlignY=70&animation=fadeIn&desc=Keep+building+%E2%9A%A1&descSize=14&descColor=00d4ff&descAlignY=88" />
