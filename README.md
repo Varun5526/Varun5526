@@ -134,7 +134,7 @@ WHERE
 <sub>Tamil Nadu State Board</sub>
 </td>
 <td align="center">
-<img src="https://img.shields.io/badge/2023_—_89%25-c084fc?style=flat-square" />
+<img src="https://img.shields.io/badge/2023_–_89%25-c084fc?style=flat-square" />
 </td>
 </tr>
 <tr>
@@ -147,7 +147,7 @@ WHERE
 <sub>Tamil Nadu State Board</sub>
 </td>
 <td align="center">
-<img src="https://img.shields.io/badge/2021_—_80%25-7c3aed?style=flat-square" />
+<img src="https://img.shields.io/badge/2021_–_80%25-7c3aed?style=flat-square" />
 </td>
 </tr>
 </table>
@@ -347,6 +347,8 @@ WHERE
 <img src="https://img.shields.io/badge/PowerBI-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
 <img src="https://img.shields.io/badge/Delta_Lake-00ADD8?style=flat-square" />
 
+<br/><a href="https://github.com/Varun5526/azure-data-pipeline"><img src="https://img.shields.io/badge/View_on_GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a>
+
 </td>
 <td width="50%" valign="top">
 
@@ -367,6 +369,8 @@ WHERE
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
 <img src="https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white" />
 <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black" />
+
+<br/><a href="https://github.com/Varun5526/multi-agent-rag"><img src="https://img.shields.io/badge/View_on_GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a>
 
 </td>
 </tr>
@@ -390,6 +394,8 @@ WHERE
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
 <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
 
+<br/><a href="https://github.com/Varun5526/spotify-data-pipeline"><img src="https://img.shields.io/badge/View_on_GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a>
+
 </td>
 <td width="50%" valign="top">
 
@@ -408,6 +414,8 @@ WHERE
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
 <img src="https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=google&logoColor=white" />
+
+<br/><a href="https://github.com/Varun5526/ai-voice-assistant"><img src="https://img.shields.io/badge/View_on_GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a>
 
 </td>
 </tr>
@@ -431,6 +439,8 @@ WHERE
 
 <p align="center">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Varun5526&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=020024&title_color=00d4ff&icon_color=c084fc&text_color=ffffff&border_radius=12" />
+&nbsp;
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Varun5526&layout=compact&theme=tokyonight&hide_border=true&bg_color=020024&title_color=00d4ff&text_color=ffffff&border_radius=12&langs_count=8" />
 </p>
 
 <p align="center">
