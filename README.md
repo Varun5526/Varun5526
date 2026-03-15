@@ -315,101 +315,70 @@ WHERE
 
 <h2 align="center">🚀 &nbsp;Featured Projects</h2>
 
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
-
-<img src="https://img.shields.io/badge/PROJECT_01-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+---
 
 ### ☁️ Azure End-to-End Data Pipeline
 > *Medallion Architecture on Azure Cloud*
 
-<img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="100%" height="3"/>
+- **Bronze → Silver → Gold** Delta Lake layers
+- Scalable ETL with **Spark + Airflow** orchestration
+- Raw ingestion via **ADLS Gen2** into Delta tables
+- Analytics via **Serverless SQL + Power BI**
 
-- ✦ **Bronze → Silver → Gold** Delta Lake layers
-- ✦ Scalable ETL — **Spark + Airflow** orchestration
-- ✦ Raw ingestion via **ADLS Gen2** into Delta tables
-- ✦ Analytics via **Serverless SQL + Power BI**
+![Synapse](https://img.shields.io/badge/Synapse-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![Spark](https://img.shields.io/badge/Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
+![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white)
+![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Delta Lake](https://img.shields.io/badge/Delta_Lake-00ADD8?style=flat-square)
+&nbsp; [![GitHub](https://img.shields.io/badge/View_on_GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Varun5526/azure-data-pipeline)
 
-<img src="https://img.shields.io/badge/Synapse-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" />
-<img src="https://img.shields.io/badge/Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white" />
-<img src="https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white" />
-<img src="https://img.shields.io/badge/PowerBI-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
-<img src="https://img.shields.io/badge/Delta_Lake-00ADD8?style=flat-square" />
-
-<br/><a href="https://github.com/Varun5526/azure-data-pipeline"><img src="https://img.shields.io/badge/View_on_GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a>
-
-</td>
-<td width="50%" valign="top">
-
-<img src="https://img.shields.io/badge/PROJECT_02-7c3aed?style=for-the-badge&logo=openai&logoColor=white" />
+---
 
 ### 🧠 Production Multi-Agent RAG System
 > *Intelligent document Q&A with hallucination detection*
 
-<img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="100%" height="3"/>
+- **3-LLM architecture** for routing & validation
+- Vector search with **MongoDB Atlas** + embeddings
+- Async ingestion via **Kafka + FastAPI**
+- Context-aware PDF Q&A using large LLMs
 
-- ✦ **3-LLM architecture** for routing & validation
-- ✦ Vector search — **MongoDB Atlas** + embeddings
-- ✦ Async ingestion via **Kafka + FastAPI**
-- ✦ Context-aware PDF Q&A using large LLMs
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+&nbsp; [![GitHub](https://img.shields.io/badge/View_on_GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Varun5526/multi-agent-rag)
 
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
-<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
-<img src="https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white" />
-<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black" />
-
-<br/><a href="https://github.com/Varun5526/multi-agent-rag"><img src="https://img.shields.io/badge/View_on_GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a>
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-<img src="https://img.shields.io/badge/PROJECT_03-1DB954?style=for-the-badge&logo=spotify&logoColor=white" />
+---
 
 ### 🎧 Spotify Data Analytics Pipeline
 > *Full ETL with Airflow orchestration & SQL analytics*
 
-<img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="100%" height="3"/>
+- **Spotify API ingestion** into MySQL via Python
+- **Airflow-orchestrated** scheduled workflows
+- SQL deduplication, transformations & analytics
+- Interactive dashboard for listening insights
 
-- ✦ **Spotify API ingestion** into MySQL via Python
-- ✦ **Airflow-orchestrated** scheduled workflows
-- ✦ SQL deduplication, transformations & analytics
-- ✦ Interactive dashboard for listening insights
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+&nbsp; [![GitHub](https://img.shields.io/badge/View_on_GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Varun5526/spotify-data-pipeline)
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white" />
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
-
-<br/><a href="https://github.com/Varun5526/spotify-data-pipeline"><img src="https://img.shields.io/badge/View_on_GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a>
-
-</td>
-<td width="50%" valign="top">
-
-<img src="https://img.shields.io/badge/PROJECT_04-EA4335?style=for-the-badge&logo=google&logoColor=white" />
+---
 
 ### 🤖 AI Chatbot & Voice Assistant
 > *Production conversational AI with voice capabilities*
 
-<img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="100%" height="3"/>
+- **Multi-turn dialogue** via Google Gemini APIs
+- Voice interface with Python + Streamlit
+- Advanced **prompt engineering** pipeline
+- NLP context management across turns
 
-- ✦ **Multi-turn dialogue** via Google Gemini APIs
-- ✦ Voice interface — Python + Streamlit
-- ✦ Advanced **prompt engineering** pipeline
-- ✦ NLP context management across turns
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
-<img src="https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=google&logoColor=white" />
-
-<br/><a href="https://github.com/Varun5526/ai-voice-assistant"><img src="https://img.shields.io/badge/View_on_GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a>
-
-</td>
-</tr>
-</table>
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=google&logoColor=white)
+&nbsp; [![GitHub](https://img.shields.io/badge/View_on_GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Varun5526/ai-voice-assistant)
 
 <br/>
 
