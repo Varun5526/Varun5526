@@ -116,69 +116,50 @@ WHERE
 <h2 align="center">🎓 &nbsp;Education</h2>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=15&duration=2500&pause=800&color=00D4FF&center=true&vCenter=true&width=560&lines=git+log+--branch=varun%2Feducation+--oneline" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=15&duration=2500&pause=800&color=00D4FF&center=true&vCenter=true&width=560&lines=LOADING+PLAYER+STATS...;CHARACTER%3A+VARUN+S;CLASS%3A+AI+%26+DATA+ENGINEER" />
 </p>
 
-```bash
-$ git log --branch=varun/education --stat --reverse
 ```
-
-```
-───────────────────────────────────────────────────────────────────
- Branch : varun/education
- Author : Varun S <varunbala2809@gmail.com>
- Repo   : life/academics.git
-───────────────────────────────────────────────────────────────────
-
-commit a1f3d9e  [2019]
-│  feat(foundation): pass Secondary (Class X)
-│
-│  Institution : Tamil Nadu State Board
-│  Score       : 80%
-│  Subjects    : Core Science · Mathematics · English
-│
-│   3 files changed, 800 insertions(+)
-│   create mode 100644 skills/logical_thinking.py
-│   create mode 100644 skills/mathematics_core.py
-│   create mode 100644 skills/discipline.md
-│
-◉
-│
-commit b7c21aa  [2023]
-│  feat(academics): complete Higher Secondary (Class XII)
-│
-│  Institution : Tamil Nadu State Board
-│  Score       : 89%
-│  Stream      : Computer Science · Mathematics · Physics
-│
-│   5 files changed, 2300 insertions(+), 0 deletions(-)
-│   create mode 100644 skills/programming_intro.py
-│   create mode 100644 skills/problem_solving.py
-│   create mode 100644 skills/cs_fundamentals.md
-│   create mode 100644 certs/class_xii_distinction.pdf
-│
-◉
-│
-commit c9e05bf  [2023 → ONGOING]  ← HEAD
-   feat(degree): B.Tech — AI & Data Science  [IN PROGRESS]
-
-   Institution : Rajalakshmi Institute of Technology, Chennai
-   Status      : Year 3 / 4  ·  Active
-   Speciality  : Artificial Intelligence · Data Engineering · GenAI
-
-   127 files changed, 48600 insertions(+)
-   create mode 100644 skills/machine_learning.py
-   create mode 100644 skills/data_engineering.py
-   create mode 100644 skills/langchain_rag.py
-   create mode 100644 skills/azure_synapse.py
-   create mode 100644 skills/deep_learning.py
-   create mode 100644 projects/medallion_pipeline/
-   create mode 100644 projects/multi_agent_rag/
-   create mode 100644 internships/springer_capital.md
-
-───────────────────────────────────────────────────────────────────
- 3 commits on varun/education  |  next commit: graduation.py
-───────────────────────────────────────────────────────────────────
+╔════════════════════════════════════════════════════════════════════╗
+║                  ⚔  CHARACTER SHEET  ·  VARUN S  ⚔               ║
+║                     CLASS  :  AI & Data Engineer                   ║
+║                     GUILD  :  RIT Chennai  ·  Year 3               ║
+╠════════════════════════════════════════════════════════════════════╣
+║                                                                    ║
+║  LEVEL PROGRESSION                                                 ║
+║                                                                    ║
+║  ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  ║
+║                                                                    ║
+║  [LVL 01]  Secondary  ·  Class X                       [2021]     ║
+║  ├─ Institution  : Tamil Nadu State Board                          ║
+║  ├─ Score        : 80%                                             ║
+║  ├─ XP Gained    : +800 XP                                         ║
+║  ├─ PROGRESS     : ████████░░  80%                                 ║
+║  └─ SKILLS UNLOCKED  :  Logic  ·  Mathematics  ·  Science          ║
+║                                                                    ║
+║  ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  ║
+║                                                                    ║
+║  [LVL 02]  Higher Secondary  ·  Class XII              [2023]     ║
+║  ├─ Institution  : Tamil Nadu State Board                          ║
+║  ├─ Score        : 89%                                             ║
+║  ├─ XP Gained    : +2300 XP                                        ║
+║  ├─ PROGRESS     : █████████░  89%                                 ║
+║  └─ SKILLS UNLOCKED  :  CS Fundamentals  ·  Programming  ·  Maths ║
+║                                                                    ║
+║  ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  ║
+║                                                                    ║
+║  [LVL 03]  B.Tech  ·  AI & Data Science          [2023 – NOW]     ║
+║  ├─ Institution  : Rajalakshmi Institute of Technology             ║
+║  ├─ Status       : *** ACTIVE QUEST ***  Year 3 / 4                ║
+║  ├─ XP Gained    : +48600 XP  (and counting...)                    ║
+║  ├─ PROGRESS     : ███████░░░  75%  ·  1 year remaining            ║
+║  └─ SKILLS UNLOCKED  :  ML  ·  GenAI  ·  RAG  ·  Azure  ·  Spark  ║
+║                                                                    ║
+║  ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  ║
+║                                                                    ║
+║  TOTAL XP  :  51700  |  RANK  :  ★★★ ELITE DATA MAGE ★★★         ║
+║  NEXT LVL  :  [LVL 04]  ·  Full-Time AI / Data Engineer            ║
+╚════════════════════════════════════════════════════════════════════╝
 ```
 
 <br/>
