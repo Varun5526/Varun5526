@@ -25,22 +25,43 @@
 
 <img align="right" width="380" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" />
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28" /> &nbsp;WHO AM I
+## 🧑‍💻 &nbsp;WHO AM I ?
 
-```python
-╔══════════════════════════════════════════════════╗
-║           VARUN S — AI & DATA ENGINEER           ║
-╠══════════════════════════════════════════════════╣
-║  name      →  "Varun S"                          ║
-║  location  →  "Chennai, India 🇮🇳"               ║
-║  college   →  "RIT Chennai | AI & DS | Year 3"   ║
-║  role      →  "Data Engineer Intern"             ║
-║  company   →  "Springer Capital 🏢"              ║
-║  stack     →  ["Azure", "Spark", "Airflow",      ║
-║                "Python", "LangChain", "RAG"]     ║
-║  passion   →  "Turning data chaos → insight ⚡"  ║
-║  status    →  "Open to Collabs & Internships 🤝" ║
-╚══════════════════════════════════════════════════╝
+```sql
+-- ╔══════════════════════════════════════════════════════════════╗
+-- ║           QUERYING THE ENGINEER DATABASE...                  ║
+-- ╚══════════════════════════════════════════════════════════════╝
+
+SELECT
+    name,
+    location,
+    college,
+    role,
+    company,
+    stack,
+    passion,
+    status
+FROM
+    engineers
+WHERE
+    name        = 'Varun S'
+    AND role    = 'Data Engineer Intern'
+    AND company = 'Springer Capital'
+    AND status  = 'Open to Collabs & Internships 🤝';
+
+-- ✅ 1 ROW RETURNED  (execution time: 0.001ms ⚡)
+-- ┌─────────────┬──────────────────────────────────────────────┐
+-- │   COLUMN    │                    VALUE                     │
+-- ├─────────────┼──────────────────────────────────────────────┤
+-- │ name        │ "Varun S"                                    │
+-- │ location    │ "Chennai, India 🇮🇳"                         │
+-- │ college     │ "RIT Chennai | AI & Data Science | Year 3"  │
+-- │ role        │ "Data Engineer Intern"                       │
+-- │ company     │ "Springer Capital 🏢"                        │
+-- │ stack       │ ["Azure","Spark","Airflow","LangChain","RAG"]│
+-- │ passion     │ "Turning data chaos → insight ⚡"            │
+-- │ status      │ "Open to Collabs & Internships 🤝"           │
+-- └─────────────┴──────────────────────────────────────────────┘
 ```
 
 <br/>
