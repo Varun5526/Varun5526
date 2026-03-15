@@ -544,6 +544,12 @@ WHERE
 <!--                   CONNECT / CTA SECTION                     -->
 <!-- ============================================================ -->
 
+<h2 align="center">📊 &nbsp;GitHub Stats</h2>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="50" />
+</p>
+
 <h2 align="center">🤝 &nbsp;Let's Build Something Amazing</h2>
 
 <p align="center">
