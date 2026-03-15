@@ -60,7 +60,7 @@ WHERE
   | college   |  "RIT Chennai | AI & Data Science | Year 3"   |
   | role      |  "Data Engineer Intern"                       |
   | company   |  "Springer Capital"                           |
-  | stack     |  ["Azure","Spark","Airflow","LangChain","RAG"] |
+  | stack     |  ["Azure","Spark","Airflow","LangChain","RAG"]|
   | passion   |  "Turning data chaos into insight"            |
   | status    |  "Open to Collabs & Internships"              |
   +-----------+-----------------------------------------------+
