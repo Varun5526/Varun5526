@@ -116,51 +116,8 @@ WHERE
 <h2 align="center">🎓 &nbsp;Education</h2>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=15&duration=2500&pause=800&color=00D4FF&center=true&vCenter=true&width=560&lines=LOADING+PLAYER+STATS...;CHARACTER%3A+VARUN+S;CLASS%3A+AI+%26+DATA+ENGINEER" />
+<img src="./education.svg" width="100%" alt="RPG Education Stats" />
 </p>
-
-```
-╔════════════════════════════════════════════════════════════════════╗
-║                  ⚔  CHARACTER SHEET  ·  VARUN S  ⚔               ║
-║                     CLASS  :  AI & Data Engineer                   ║
-║                     GUILD  :  RIT Chennai  ·  Year 3               ║
-╠════════════════════════════════════════════════════════════════════╣
-║                                                                    ║
-║  LEVEL PROGRESSION                                                 ║
-║                                                                    ║
-║  ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  ║
-║                                                                    ║
-║  [LVL 01]  Secondary  ·  Class X                       [2021]     ║
-║  ├─ Institution  : Tamil Nadu State Board                          ║
-║  ├─ Score        : 80%                                             ║
-║  ├─ XP Gained    : +800 XP                                         ║
-║  ├─ PROGRESS     : ████████░░  80%                                 ║
-║  └─ SKILLS UNLOCKED  :  Logic  ·  Mathematics  ·  Science          ║
-║                                                                    ║
-║  ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  ║
-║                                                                    ║
-║  [LVL 02]  Higher Secondary  ·  Class XII              [2023]     ║
-║  ├─ Institution  : Tamil Nadu State Board                          ║
-║  ├─ Score        : 89%                                             ║
-║  ├─ XP Gained    : +2300 XP                                        ║
-║  ├─ PROGRESS     : █████████░  89%                                 ║
-║  └─ SKILLS UNLOCKED  :  CS Fundamentals  ·  Programming  ·  Maths ║
-║                                                                    ║
-║  ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  ║
-║                                                                    ║
-║  [LVL 03]  B.Tech  ·  AI & Data Science          [2023 – NOW]     ║
-║  ├─ Institution  : Rajalakshmi Institute of Technology             ║
-║  ├─ Status       : *** ACTIVE QUEST ***  Year 3 / 4                ║
-║  ├─ XP Gained    : +48600 XP  (and counting...)                    ║
-║  ├─ PROGRESS     : ███████░░░  75%  ·  1 year remaining            ║
-║  └─ SKILLS UNLOCKED  :  ML  ·  GenAI  ·  RAG  ·  Azure  ·  Spark  ║
-║                                                                    ║
-║  ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  ║
-║                                                                    ║
-║  TOTAL XP  :  51700  |  RANK  :  ★★★ ELITE DATA MAGE ★★★         ║
-║  NEXT LVL  :  [LVL 04]  ·  Full-Time AI / Data Engineer            ║
-╚════════════════════════════════════════════════════════════════════╝
-```
 
 <br/>
 
