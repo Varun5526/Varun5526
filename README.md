@@ -51,19 +51,19 @@ WHERE
 ```
 
 ```
-  ✅  1 ROW RETURNED   (execution time: 0.001ms)
-  +-----------+-----------------------------------------------+
-  |  COLUMN   |  VALUE                                        |
-  +-----------+-----------------------------------------------+
-  | name      |  "Varun S"                                    |
-  | location  |  "Chennai, India"                             |
-  | college   |  "RIT Chennai | AI & Data Science | Year 3"   |
-  | role      |  "Data Engineer Intern"                       |
-  | company   |  "Springer Capital"                           |
-  | stack     |  ["Azure","Spark","Airflow","LangChain","RAG"] |
-  | passion   |  "Turning data chaos into insight"            |
-  | status    |  "Open to Collabs & Internships"              |
-  +-----------+-----------------------------------------------+
+-- ✅ 1 ROW RETURNED  (execution time: 0.001ms ⚡)
+-- ┌─────────────┬──────────────────────────────────────────────┐
+-- │   COLUMN    │                    VALUE                     │
+-- ├─────────────┼──────────────────────────────────────────────┤
+-- │ name        │  "Varun S"                                   │
+-- │ location    │  "Chennai, India 🇮🇳"                        │
+-- │ college     │  "RIT Chennai | AI & Data Science | Year 3"  │
+-- │ role        │  "Data Engineer Intern"                      │
+-- │ company     │  "Springer Capital 🏢"                       │
+-- │ stack       │  ["Azure","Spark","Airflow","LangChain","RAG"]│
+-- │ passion     │  "Turning data chaos → insight ⚡"           │
+-- │ status      │  "Open to Collabs & Internships 🤝"          │
+-- └─────────────┴──────────────────────────────────────────────┘
 ```
 
 <br/>
@@ -115,9 +115,80 @@ WHERE
 
 <h2 align="center">🎓 &nbsp;Education</h2>
 
-<p align="center">
-<img src="./education.svg" width="100%" alt="RPG Education Stats" />
-</p>
+```
+╔══════════════════════════════════════════════════════════════════════════╗
+║                    ACADEMIC RECORD  //  VARUN S                         ║
+╚══════════════════════════════════════════════════════════════════════════╝
+```
+
+<table align="center" width="92%">
+<tr>
+<td width="6%" align="center">
+
+```
+ ●
+ │
+ │
+ │
+```
+
+</td>
+<td width="94%">
+
+```
+┌─ 🎓  B.Tech — Artificial Intelligence & Data Science ────────────────────┐
+│  📍  Rajalakshmi Institute of Technology, Chennai                         │
+│  📅  2023 – Present  (Year 3 of 4)                                        │
+│  🔬  Focus: Data Engineering · Generative AI · Machine Learning           │
+└───────────────────────────────────────────────────────────────────────────┘
+```
+
+</td>
+</tr>
+<tr>
+<td align="center">
+
+```
+ ●
+ │
+ │
+ │
+```
+
+</td>
+<td>
+
+```
+┌─ 📘  Higher Secondary — Class XII ───────────────────────────────────────┐
+│  📍  Tamil Nadu State Board                                                │
+│  📅  Completed 2023                                                        │
+│  🏆  Score: 89%                                                            │
+└───────────────────────────────────────────────────────────────────────────┘
+```
+
+</td>
+</tr>
+<tr>
+<td align="center">
+
+```
+ ●
+```
+
+</td>
+<td>
+
+```
+┌─ 📗  Secondary — Class X ────────────────────────────────────────────────┐
+│  📍  Tamil Nadu State Board                                                │
+│  📅  Completed 2021                                                        │
+│  🏆  Score: 80%                                                            │
+└───────────────────────────────────────────────────────────────────────────┘
+```
+
+</td>
+</tr>
+</table>
 
 <br/>
 
