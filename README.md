@@ -69,7 +69,7 @@
   ### 🌐 &nbsp;Socials
 
   <p>
-    <a href="https://github.com/YOUR_USERNAME">
+    <a href="https://github.com/Varun5526">
       <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
     </a>&nbsp;
     <a href="https://linkedin.com/in/varun-s-226513305">
@@ -83,7 +83,7 @@
     </a>
   </p>
 
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat-square&color=7c3aed&label=Profile+Views" />
+  <img src="https://komarev.com/ghpvc/?username=Varun5526&style=flat-square&color=7c3aed&label=Profile+Views" />
 
 </div>
 
@@ -277,17 +277,17 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true&include_all_commits=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Varun5526&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true&include_all_commits=true" />
 &nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=midnight-purple&hide_border=true&langs_count=8" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Varun5526&layout=compact&theme=midnight-purple&hide_border=true&langs_count=8" />
 
 <br/>
 
-<img width="65%" src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=midnight-purple&hide_border=true" alt="GitHub Streak" />
+<img width="65%" src="https://streak-stats.demolab.com?user=Varun5526&theme=midnight-purple&hide_border=true" alt="GitHub Streak" />
 
 <br/><br/>
 
-<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true&area=true&color=c084fc&line=7c3aed&point=ffffff" />
+<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=Varun5526&theme=tokyo-night&hide_border=true&area=true&color=c084fc&line=7c3aed&point=ffffff" />
 
 </div>
 
@@ -332,7 +332,7 @@
   <a href="mailto:varunbala2809@gmail.com">
     <img src="https://img.shields.io/badge/Send_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>&nbsp;
-  <a href="https://github.com/YOUR_USERNAME">
+  <a href="https://github.com/Varun5526">
     <img src="https://img.shields.io/badge/Follow_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
