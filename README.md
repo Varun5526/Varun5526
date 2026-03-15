@@ -60,7 +60,7 @@ WHERE
   | college   |  "RIT Chennai | AI & Data Science | Year 3"   |
   | role      |  "Data Engineer Intern"                       |
   | company   |  "Springer Capital"                           |
-  | stack     |  ["Azure","Spark","Airflow","LangChain","RAG"]|
+  | stack     |  ["Azure","Spark","Airflow","LangChain","RAG"] |
   | passion   |  "Turning data chaos into insight"            |
   | status    |  "Open to Collabs & Internships"              |
   +-----------+-----------------------------------------------+
@@ -116,43 +116,69 @@ WHERE
 <h2 align="center">🎓 &nbsp;Education</h2>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=14&duration=2000&pause=800&color=00D4FF&center=true&vCenter=true&width=500&lines=cat+%7E%2Feducation%2Facademic_journey.log" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=15&duration=2500&pause=800&color=00D4FF&center=true&vCenter=true&width=560&lines=git+log+--branch=varun%2Feducation+--oneline" />
 </p>
 
 ```bash
-$ cat ~/education/academic_journey.log
+$ git log --branch=varun/education --stat --reverse
 ```
 
 ```
-╔══════════════════════════════════════════════════════════════════════╗
-║                    ACADEMIC JOURNEY  ::  varun_s                    ║
-╚══════════════════════════════════════════════════════════════════════╝
+───────────────────────────────────────────────────────────────────
+ Branch : varun/education
+ Author : Varun S <varunbala2809@gmail.com>
+ Repo   : life/academics.git
+───────────────────────────────────────────────────────────────────
 
-  [2023 ──────────────────────────────────────────── Present]
-  │
-  ◈  B.Tech  ·  Artificial Intelligence & Data Science
-  │  └─ Rajalakshmi Institute of Technology, Chennai
-  │  └─ STATUS   : ACTIVE  ·  Year 3 of 4
-  │  └─ FOCUS    : AI · ML · Data Engineering · GenAI
-  │
-  ├─────────────────────────────────────────────────────────
-  │
-  [2021 ──────────────────────────────────────────── 2023]
-  │
-  ◈  Higher Secondary  ·  Class XII
-  │  └─ Tamil Nadu State Board
-  │  └─ SCORE    : 89%
-  │  └─ STREAM   : Computer Science & Mathematics
-  │
-  ├─────────────────────────────────────────────────────────
-  │
-  [2019 ──────────────────────────────────────────── 2021]
-  │
-  ◈  Secondary  ·  Class X
-     └─ Tamil Nadu State Board
-     └─ SCORE    : 80%
+commit a1f3d9e  [2019]
+│  feat(foundation): pass Secondary (Class X)
+│
+│  Institution : Tamil Nadu State Board
+│  Score       : 80%
+│  Subjects    : Core Science · Mathematics · English
+│
+│   3 files changed, 800 insertions(+)
+│   create mode 100644 skills/logical_thinking.py
+│   create mode 100644 skills/mathematics_core.py
+│   create mode 100644 skills/discipline.md
+│
+◉
+│
+commit b7c21aa  [2023]
+│  feat(academics): complete Higher Secondary (Class XII)
+│
+│  Institution : Tamil Nadu State Board
+│  Score       : 89%
+│  Stream      : Computer Science · Mathematics · Physics
+│
+│   5 files changed, 2300 insertions(+), 0 deletions(-)
+│   create mode 100644 skills/programming_intro.py
+│   create mode 100644 skills/problem_solving.py
+│   create mode 100644 skills/cs_fundamentals.md
+│   create mode 100644 certs/class_xii_distinction.pdf
+│
+◉
+│
+commit c9e05bf  [2023 → ONGOING]  ← HEAD
+   feat(degree): B.Tech — AI & Data Science  [IN PROGRESS]
 
-  EXIT CODE: 0  ·  3 records loaded successfully
+   Institution : Rajalakshmi Institute of Technology, Chennai
+   Status      : Year 3 / 4  ·  Active
+   Speciality  : Artificial Intelligence · Data Engineering · GenAI
+
+   127 files changed, 48600 insertions(+)
+   create mode 100644 skills/machine_learning.py
+   create mode 100644 skills/data_engineering.py
+   create mode 100644 skills/langchain_rag.py
+   create mode 100644 skills/azure_synapse.py
+   create mode 100644 skills/deep_learning.py
+   create mode 100644 projects/medallion_pipeline/
+   create mode 100644 projects/multi_agent_rag/
+   create mode 100644 internships/springer_capital.md
+
+───────────────────────────────────────────────────────────────────
+ 3 commits on varun/education  |  next commit: graduation.py
+───────────────────────────────────────────────────────────────────
 ```
 
 <br/>
