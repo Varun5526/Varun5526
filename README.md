@@ -112,32 +112,89 @@ WHERE
 
 <h2 align="center">🎓 &nbsp;Education</h2>
 
+<div align="center">
+
 ```
-+========================================================================+
-|                   ACADEMIC RECORD  //  VARUN S                        |
-+========================================================================+
-
-  [1]  B.Tech - Artificial Intelligence & Data Science
-       +-----------------------------------------------------------------+
-       | Institution : Rajalakshmi Institute of Technology, Chennai      |
-       | Duration    : 2023 - Present  (Year 3 of 4)                    |
-       | Focus       : Data Engineering, Generative AI, Machine Learning |
-       +-----------------------------------------------------------------+
-
-  [2]  Higher Secondary (Class XII)
-       +-----------------------------------------------------------------+
-       | Board       : Tamil Nadu State Board                            |
-       | Year        : 2023                                              |
-       | Score       : 89%                                               |
-       +-----------------------------------------------------------------+
-
-  [3]  Secondary (Class X)
-       +-----------------------------------------------------------------+
-       | Board       : Tamil Nadu State Board                            |
-       | Year        : 2021                                              |
-       | Score       : 80%                                               |
-       +-----------------------------------------------------------------+
+╔══════════════════════════════════════════════════════════════════════╗
+║                                                                      ║
+║    ░░  L E A R N I N G   T I M E L I N E  ░░                        ║
+║                                                                      ║
+╚══════════════════════════════════════════════════════════════════════╝
 ```
+
+</div>
+
+<table align="center" width="85%">
+<tr>
+<td align="center" width="18%">
+
+<img src="https://img.shields.io/badge/2023_—_NOW-00d4ff?style=for-the-badge&labelColor=020024" />
+
+</td>
+<td width="4%" align="center">
+
+```
+┃
+◉
+┃
+```
+
+</td>
+<td width="78%">
+
+<img src="https://img.shields.io/badge/B.Tech_·_AI_%26_Data_Science-7c3aed?style=for-the-badge&logo=googlescholar&logoColor=white" />
+
+**Rajalakshmi Institute of Technology, Chennai** &nbsp;·&nbsp; Year 3 of 4
+
+`Data Engineering` &nbsp;`Generative AI` &nbsp;`Machine Learning` &nbsp;`Deep Learning`
+
+</td>
+</tr>
+<tr>
+<td align="center">
+
+<img src="https://img.shields.io/badge/2023-00d4ff?style=for-the-badge&labelColor=020024" />
+
+</td>
+<td align="center">
+
+```
+┃
+◉
+┃
+```
+
+</td>
+<td>
+
+<img src="https://img.shields.io/badge/Class_XII_·_Higher_Secondary-c084fc?style=for-the-badge&logo=academia&logoColor=white" />
+
+**Tamil Nadu State Board** &nbsp;&nbsp;&nbsp; Score: &nbsp;`89%` 🏅
+
+</td>
+</tr>
+<tr>
+<td align="center">
+
+<img src="https://img.shields.io/badge/2021-00d4ff?style=for-the-badge&labelColor=020024" />
+
+</td>
+<td align="center">
+
+```
+◉
+```
+
+</td>
+<td>
+
+<img src="https://img.shields.io/badge/Class_X_·_Secondary-0078D4?style=for-the-badge&logo=academia&logoColor=white" />
+
+**Tamil Nadu State Board** &nbsp;&nbsp;&nbsp; Score: &nbsp;`80%` 🎖️
+
+</td>
+</tr>
+</table>
 
 <br/>
 
@@ -309,44 +366,73 @@ WHERE
 
 <h2 align="center">🚀 &nbsp;Featured Projects</h2>
 
+<br/>
+
+<!-- PROJECT 01 -->
 <table width="100%">
 <tr>
-<td width="50%" valign="top">
+<td width="8%" align="center" valign="middle">
 
-<img src="https://img.shields.io/badge/PROJECT_01-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+```
+ ☁️
+ 01
+```
 
-**☁️ Azure End-to-End Data Pipeline**
+</td>
+<td width="52%" valign="top">
 
+**Azure End-to-End Data Pipeline**
+<br/>
 *Medallion Architecture on Azure Cloud*
 
-- **Bronze → Silver → Gold** Delta Lake layers
-- Scalable ETL with **Spark + Airflow** orchestration
-- Raw ingestion via **ADLS Gen2** into Delta tables
-- Analytics via **Serverless SQL + Power BI**
+`▸ Bronze → Silver → Gold` Delta Lake layers
+`▸` Scalable ETL — **Spark + Airflow** orchestration
+`▸` Raw ingestion via **ADLS Gen2** into Delta tables
+`▸` Analytics via **Serverless SQL + Power BI**
+
+</td>
+<td width="40%" valign="middle" align="right">
 
 <img src="https://img.shields.io/badge/Synapse-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" />
 <img src="https://img.shields.io/badge/Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white" />
 <img src="https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white" />
-<img src="https://img.shields.io/badge/PowerBI-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
 <img src="https://img.shields.io/badge/Delta_Lake-00ADD8?style=flat-square" />
+<img src="https://img.shields.io/badge/PowerBI-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
 
 <br/><br/>
 
-<a href="https://github.com/Varun5526/azure-data-pipeline"><img src="https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://github.com/Varun5526/azure-data-pipeline"><img src="https://img.shields.io/badge/→_View_Repo-0078D4?style=for-the-badge&logo=github&logoColor=white" /></a>
 
 </td>
-<td width="50%" valign="top">
+</tr>
+</table>
 
-<img src="https://img.shields.io/badge/PROJECT_02-7c3aed?style=for-the-badge&logo=openai&logoColor=white" />
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="2" />
 
-**🧠 Production Multi-Agent RAG System**
+<!-- PROJECT 02 -->
+<table width="100%">
+<tr>
+<td width="8%" align="center" valign="middle">
 
+```
+ 🧠
+ 02
+```
+
+</td>
+<td width="52%" valign="top">
+
+**Production Multi-Agent RAG System**
+<br/>
 *Intelligent document Q&A with hallucination detection*
 
-- **3-LLM architecture** for routing & validation
-- Vector search with **MongoDB Atlas** + embeddings
-- Async ingestion via **Kafka + FastAPI**
-- Context-aware PDF Q&A using large LLMs
+`▸ 3-LLM architecture` for routing & validation
+`▸` Vector search — **MongoDB Atlas** + embeddings
+`▸` Async ingestion via **Kafka + FastAPI**
+`▸` Context-aware PDF Q&A using large LLMs
+
+</td>
+<td width="40%" valign="middle" align="right">
 
 <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
 <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
@@ -356,23 +442,38 @@ WHERE
 
 <br/><br/>
 
-<a href="https://github.com/Varun5526/multi-agent-rag"><img src="https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://github.com/Varun5526/multi-agent-rag"><img src="https://img.shields.io/badge/→_View_Repo-7c3aed?style=for-the-badge&logo=github&logoColor=white" /></a>
 
 </td>
 </tr>
+</table>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="2" />
+
+<!-- PROJECT 03 -->
+<table width="100%">
 <tr>
-<td width="50%" valign="top">
+<td width="8%" align="center" valign="middle">
 
-<img src="https://img.shields.io/badge/PROJECT_03-1DB954?style=for-the-badge&logo=spotify&logoColor=white" />
+```
+ 🎧
+ 03
+```
 
-**🎧 Spotify Data Analytics Pipeline**
+</td>
+<td width="52%" valign="top">
 
+**Spotify Data Analytics Pipeline**
+<br/>
 *Full ETL with Airflow orchestration & SQL analytics*
 
-- **Spotify API ingestion** into MySQL via Python
-- **Airflow-orchestrated** scheduled workflows
-- SQL deduplication, transformations & analytics
-- Interactive dashboard for listening insights
+`▸` **Spotify API ingestion** into MySQL via Python
+`▸` Airflow-orchestrated scheduled workflows
+`▸` SQL deduplication, transformations & analytics
+`▸` Interactive dashboard for listening insights
+
+</td>
+<td width="40%" valign="middle" align="right">
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white" />
@@ -381,21 +482,38 @@ WHERE
 
 <br/><br/>
 
-<a href="https://github.com/Varun5526/spotify-data-pipeline"><img src="https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://github.com/Varun5526/spotify-data-pipeline"><img src="https://img.shields.io/badge/→_View_Repo-1DB954?style=for-the-badge&logo=github&logoColor=white" /></a>
 
 </td>
-<td width="50%" valign="top">
+</tr>
+</table>
 
-<img src="https://img.shields.io/badge/PROJECT_04-EA4335?style=for-the-badge&logo=google&logoColor=white" />
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="2" />
 
-**🤖 AI Chatbot & Voice Assistant**
+<!-- PROJECT 04 -->
+<table width="100%">
+<tr>
+<td width="8%" align="center" valign="middle">
 
+```
+ 🤖
+ 04
+```
+
+</td>
+<td width="52%" valign="top">
+
+**AI Chatbot & Voice Assistant**
+<br/>
 *Production conversational AI with voice capabilities*
 
-- **Multi-turn dialogue** via Google Gemini APIs
-- Voice interface with Python + Streamlit
-- Advanced **prompt engineering** pipeline
-- NLP context management across turns
+`▸` **Multi-turn dialogue** via Google Gemini APIs
+`▸` Voice interface with Python + Streamlit
+`▸` Advanced **prompt engineering** pipeline
+`▸` NLP context management across turns
+
+</td>
+<td width="40%" valign="middle" align="right">
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
@@ -403,7 +521,7 @@ WHERE
 
 <br/><br/>
 
-<a href="https://github.com/Varun5526/ai-voice-assistant"><img src="https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://github.com/Varun5526/ai-voice-assistant"><img src="https://img.shields.io/badge/→_View_Repo-EA4335?style=for-the-badge&logo=github&logoColor=white" /></a>
 
 </td>
 </tr>
