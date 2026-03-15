@@ -31,61 +31,65 @@
 <!--                     ABOUT ME                               -->
 <!-- ██████████████████████████████████████████████████████████ -->
 
-<div align="left">
-  <img align="right" width="340" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" />
+<img align="right" width="360" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" />
 
-  ### 👨‍💻 &nbsp;About Me
+### 👨‍💻 &nbsp;About Me
 
-  <p>
-    I'm a <strong>3rd Year B.Tech student in Artificial Intelligence & Data Science</strong> at
-    <strong>Rajalakshmi Institute of Technology, Chennai</strong> — passionate about building
-    intelligent systems and scalable data infrastructure.
-  </p>
+```python
+class VarunS:
+    name       = "Varun S"
+    role       = ["AI Engineer", "Data Engineer"]
+    college    = "RIT Chennai — AI & Data Science (3rd Year)"
+    currently  = "Data Engineer Intern @ Springer Capital"
+    building   = ["Azure Pipelines", "RAG Systems", "GenAI Apps"]
+    open_to    = ["Collaborations", "Internships", "Open Source"]
+    quote      = "Data is the new oil — I build the refinery. ⚡"
+```
 
-  <p>
-    I specialise in <strong>end-to-end Azure Data Pipelines</strong>, <strong>Generative AI applications</strong>,
-    and <strong>Production RAG Systems</strong> that transform raw, messy data into real business decisions.
-  </p>
+<br/>
 
-  <p>
-    Currently interning at <strong>Springer Capital</strong> as a Data Engineer, building
-    Medallion Architecture pipelines on Azure Synapse + Spark + Delta Lake.
-  </p>
+🔭 &nbsp;Currently building **Medallion Architecture** pipelines on Azure Synapse + Spark + Delta Lake
+<br/>
+🧠 &nbsp;Specialising in **Production RAG Systems**, LLMs & LangChain-powered GenAI apps
+<br/>
+🌱 &nbsp;Exploring **Multi-Agent AI** architectures and real-time data streaming
+<br/>
+⚡ &nbsp;I turn raw, messy data into **intelligent, decision-ready insights**
+<br/>
+🤝 &nbsp;Open to collabs in **AI/ML**, **Data Engineering** & **GenAI**
 
-  <br/>
+<br/>
 
-  <img src="https://img.shields.io/badge/📍_Chennai,_India-0d0d0d?style=for-the-badge" />
-  &nbsp;
+<img src="https://img.shields.io/badge/📍_Chennai,_India-0d0d0d?style=for-the-badge" />
+&nbsp;
+<a href="mailto:varunbala2809@gmail.com">
+  <img src="https://img.shields.io/badge/📧_varunbala2809@gmail.com-0d0d0d?style=for-the-badge" />
+</a>
+<br/><br/>
+<img src="https://img.shields.io/badge/🤝_Open_to_Collab_(AI_|_Data_Eng)-0d0d0d?style=for-the-badge" />
+&nbsp;
+<img src="https://img.shields.io/badge/🚀_Building_AI_%26_Data_Systems-0d0d0d?style=for-the-badge" />
+
+<br/><br/>
+
+### 🌐 &nbsp;Socials
+
+<p>
+  <a href="https://github.com/Varun5526">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>&nbsp;
+  <a href="https://linkedin.com/in/varun-s-226513305">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>&nbsp;
   <a href="mailto:varunbala2809@gmail.com">
-    <img src="https://img.shields.io/badge/📧_varunbala2809@gmail.com-0d0d0d?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>&nbsp;
+  <a href="tel:+918838193946">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
-  <br/><br/>
-  <img src="https://img.shields.io/badge/🤝_Open_to_Collab_(AI_|_Data_Eng)-0d0d0d?style=for-the-badge" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/🚀_Building_AI_%26_Data_Systems-0d0d0d?style=for-the-badge" />
+</p>
 
-  <br/><br/>
-
-  ### 🌐 &nbsp;Socials
-
-  <p>
-    <a href="https://github.com/Varun5526">
-      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-    </a>&nbsp;
-    <a href="https://linkedin.com/in/varun-s-226513305">
-      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-    </a>&nbsp;
-    <a href="mailto:varunbala2809@gmail.com">
-      <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-    </a>&nbsp;
-    <a href="tel:+918838193946">
-      <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-    </a>
-  </p>
-
-  <img src="https://komarev.com/ghpvc/?username=Varun5526&style=flat-square&color=7c3aed&label=Profile+Views" />
-
-</div>
+<img src="https://komarev.com/ghpvc/?username=Varun5526&style=flat-square&color=7c3aed&label=Profile+Views" />
 
 <br clear="all"/>
 
@@ -277,9 +281,7 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Varun5526&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true&include_all_commits=true" />
-&nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Varun5526&layout=compact&theme=midnight-purple&hide_border=true&langs_count=8" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Varun5526&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true" />
 
 <br/>
 
