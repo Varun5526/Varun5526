@@ -248,9 +248,9 @@ WHERE
 
 **💻 Languages**
 
-<img src="https://skillicons.dev/icons?i=python,postgresql,c&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,postgresql,c,linux&theme=dark" />
 
-`Python` &nbsp;`SQL` &nbsp;`C`
+`Python` &nbsp;`SQL` &nbsp;`C` &nbsp;`Linux`
 
 </td>
 <td align="center" width="25%">
@@ -315,10 +315,10 @@ WHERE
 
 <h2 align="center">🚀 &nbsp;Featured Projects</h2>
 
-<table width="100%">
+<table width="100%" cellspacing="8" cellpadding="0">
 <tr>
 
-<td width="50%" valign="top" style="border: 1px solid #30363d; border-radius: 8px; padding: 16px;">
+<td width="50%" valign="top" style="border: 1px solid #30363d; border-radius: 8px; padding: 24px;">
 
 <img src="https://img.shields.io/badge/PROJECT_01-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
 
@@ -341,11 +341,11 @@ WHERE
 
 <br/><br/>
 
-[![GitHub](https://img.shields.io/badge/View_on_GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Varun5526/azure-data-pipeline)
+[![GitHub](https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Varun5526/azure-data-pipeline)
 
 </td>
 
-<td width="50%" valign="top" style="border: 1px solid #30363d; border-radius: 8px; padding: 16px;">
+<td width="50%" valign="top" style="border: 1px solid #30363d; border-radius: 8px; padding: 24px;">
 
 <img src="https://img.shields.io/badge/PROJECT_02-7c3aed?style=for-the-badge&logo=openai&logoColor=white" />
 
@@ -368,14 +368,14 @@ WHERE
 
 <br/><br/>
 
-[![GitHub](https://img.shields.io/badge/View_on_GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Varun5526/multi-agent-rag)
+[![GitHub](https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Varun5526/multi-agent-rag)
 
 </td>
 </tr>
 
 <tr>
 
-<td width="50%" valign="top" style="border: 1px solid #30363d; border-radius: 8px; padding: 16px;">
+<td width="50%" valign="top" style="border: 1px solid #30363d; border-radius: 8px; padding: 24px;">
 
 <img src="https://img.shields.io/badge/PROJECT_03-1DB954?style=for-the-badge&logo=spotify&logoColor=white" />
 
@@ -397,11 +397,11 @@ WHERE
 
 <br/><br/>
 
-[![GitHub](https://img.shields.io/badge/View_on_GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Varun5526/spotify-data-pipeline)
+[![GitHub](https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Varun5526/spotify-data-pipeline)
 
 </td>
 
-<td width="50%" valign="top" style="border: 1px solid #30363d; border-radius: 8px; padding: 16px;">
+<td width="50%" valign="top" style="border: 1px solid #30363d; border-radius: 8px; padding: 24px;">
 
 <img src="https://img.shields.io/badge/PROJECT_04-EA4335?style=for-the-badge&logo=google&logoColor=white" />
 
@@ -422,7 +422,7 @@ WHERE
 
 <br/><br/>
 
-[![GitHub](https://img.shields.io/badge/View_on_GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Varun5526/ai-voice-assistant)
+[![GitHub](https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Varun5526/ai-voice-assistant)
 
 </td>
 </tr>
@@ -446,8 +446,6 @@ WHERE
 
 <p align="center">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Varun5526&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=020024&title_color=00d4ff&icon_color=c084fc&text_color=ffffff&border_radius=12" />
-&nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Varun5526&layout=compact&theme=tokyonight&hide_border=true&bg_color=020024&title_color=00d4ff&text_color=ffffff&border_radius=12&langs_count=8" />
 </p>
 
 <p align="center">
