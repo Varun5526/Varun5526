@@ -52,18 +52,18 @@ WHERE
 
 ```
 -- ✅ 1 ROW RETURNED  (execution time: 0.001ms ⚡)
--- ┌─────────────┬──────────────────────────────────────────────┐
--- │   COLUMN    │                    VALUE                     │
--- ├─────────────┼──────────────────────────────────────────────┤
--- │ name        │  "Varun S"                                   │
--- │ location    │  "Chennai, India 🇮🇳"                        │
--- │ college     │  "RIT Chennai | AI & Data Science | Year 3"  │
--- │ role        │  "Data Engineer Intern"                      │
--- │ company     │  "Springer Capital 🏢"                       │
--- │ stack       │  ["Azure","Spark","Airflow","LangChain","RAG"]│
--- │ passion     │  "Turning data chaos → insight ⚡"           │
--- │ status      │  "Open to Collabs & Internships 🤝"          │
--- └─────────────┴──────────────────────────────────────────────┘
+-- ┌───────────────┬─────────────────────────────────────────────────┐
+-- │    COLUMN     │                     VALUE                       │
+-- ├───────────────┼─────────────────────────────────────────────────┤
+-- │ name          │ "Varun S"                                       │
+-- │ location      │ "Chennai, India 🇮🇳"                             │
+-- │ college       │ "RIT Chennai | AI & Data Science | Year 3"      │
+-- │ role          │ "Data Engineer Intern"                          │
+-- │ company       │ "Springer Capital 🏢"                            │
+-- │ stack         │ ["Azure","Spark","Airflow","LangChain","RAG"]   │
+-- │ passion       │ "Turning data chaos → insight ⚡"                │
+-- │ status        │ "Open to Collabs & Internships 🤝"               │
+-- └───────────────┴─────────────────────────────────────────────────┘
 ```
 
 <br/>
@@ -136,11 +136,11 @@ WHERE
 <td width="94%">
 
 ```
-┌─ 🎓  B.Tech — Artificial Intelligence & Data Science ────────────────────┐
-│  📍  Rajalakshmi Institute of Technology, Chennai                         │
-│  📅  2023 – Present  (Year 3 of 4)                                        │
-│  🔬  Focus: Data Engineering · Generative AI · Machine Learning           │
-└───────────────────────────────────────────────────────────────────────────┘
+┌─ 🎓  B.Tech — Artificial Intelligence & Data Science ──────────────┐
+│  📍  Rajalakshmi Institute of Technology, Chennai                  │
+│  📅  2023 – Present  (Year 3 of 4)                                 │
+│  🔬  Focus: Data Engineering · Generative AI · Machine Learning    │
+└───────────────────────────────────────────────────────────────────┘
 ```
 
 </td>
@@ -159,11 +159,11 @@ WHERE
 <td>
 
 ```
-┌─ 📘  Higher Secondary — Class XII ───────────────────────────────────────┐
-│  📍  Tamil Nadu State Board                                                │
-│  📅  Completed 2023                                                        │
-│  🏆  Score: 89%                                                            │
-└───────────────────────────────────────────────────────────────────────────┘
+┌─ 📘  Higher Secondary  ·  Class XII  ·  2023  ·  89% ──────────────┐
+│  📍  Tamil Nadu State Board                                        │
+│  📅  Completed 2023                                                │
+│  🏆  Score: 89%                                                    │
+└───────────────────────────────────────────────────────────────────┘
 ```
 
 </td>
@@ -179,11 +179,11 @@ WHERE
 <td>
 
 ```
-┌─ 📗  Secondary — Class X ────────────────────────────────────────────────┐
-│  📍  Tamil Nadu State Board                                                │
-│  📅  Completed 2021                                                        │
-│  🏆  Score: 80%                                                            │
-└───────────────────────────────────────────────────────────────────────────┘
+┌─ 📗  Secondary  ·  Class X  ·  2021  ·  80% ───────────────────────┐
+│  📍  Tamil Nadu State Board                                        │
+│  📅  Completed 2021                                                │
+│  🏆  Score: 80%                                                    │
+└───────────────────────────────────────────────────────────────────┘
 ```
 
 </td>
